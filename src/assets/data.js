@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What does HTML stand for?",
+      option1: "Hyper Text Markup Language",
+      option2: "High Text Markup Language",
+      option3: "Hyperlinks and Text Markup Language",
+      option4: "Home Tool Markup Language",
+      ans: 1,
+    },
+    {
+      question: "Which HTML element is used to define the title of a document?",
+      option1: "<meta>",
+      option2: "<title>",
+      option3: "<head>",
+      option4: "<body>",
+      ans: 2,
+    },
+    {
+      question: "Which CSS property is used to change the text color of an element?",
+      option1: "color",
+      option2: "font-color",
+      option3: "text-color",
+      option4: "background-color",
+      ans: 1,
+    },
+    {
+      question: "Which HTML element is used to define a paragraph?",
+      option1: "<p>",
+      option2: "<par>",
+      option3: "<pg>",
+      option4: "<paragraph>",
+      ans: 1,
+    },
+    {
+      question: "Which CSS property is used to change the background color?",
+      option1: "bgcolor",
+      option2: "background-color",
+      option3: "color",
+      option4: "background",
+      ans: 2,
+    },
+];
